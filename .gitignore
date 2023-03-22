@@ -1,0 +1,5 @@
+# Project exclude paths
+/target/
+.idea
+UpsideDownWorld.iml
+DS_Store
